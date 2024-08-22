@@ -1,0 +1,4 @@
+.btnLogin:hover{
+    -fx-cursor: pointer;
+    -fx-background-color: black;
+}
